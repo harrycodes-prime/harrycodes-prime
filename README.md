@@ -2,10 +2,14 @@
 <h1 align="center">Yo! 👋, I'm Harry M. Dajunos</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197.gif">
-=
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrycodes-prime&label=Profile%20views&color=0e75b6&style=flat" alt="harrycodes-prime" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+</p>
 
 - 🔭 I am currently a graduating student at Caraga State University Cabadbaran Campus**
 

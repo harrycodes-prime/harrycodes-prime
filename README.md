@@ -11,11 +11,11 @@
   </a>
 </p>
 
-- 🔭 I am currently a graduating student at Caraga State University Cabadbaran Campus**
+- 🔭 I am currently a graduating student at Caraga State University Cabadbaran Campus.
 
-- 🌱 I’m currently learning **Streamlit, Taipy, Flutter**
+- 🌱 I’m currently learning **Streamlit, Taipy, Flutter
 
-- 💬 Ask me about **HTML, CSS, PHP, JavaScript, React,**
+- 💬 Ask me about **HTML, CSS, PHP, JavaScript, React
 
 - 📫 How to reach me **kurodajunos@gmail.com**
 

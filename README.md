@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Yo! 👋, I'm Harry M. Dajunos</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197.gif">
@@ -6,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Information Assurance and Security 2**
+- 🔭 I am currently a graduating student at Caraga State University Cabadbaran Campus**
 
 - 🌱 I’m currently learning **Streamlit, Taipy, Flutter**
 

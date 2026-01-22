@@ -6,16 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrycodes-prime&label=Profile%20views&color=0e75b6&style=flat" alt="harrycodes-prime" /> </p>
 
 <p align="left">
-  <a href="https://facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/djnshrry" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
 </p>
 
+
 - 🔭 I am currently a graduating student at Caraga State University Cabadbaran Campus.
 
-- 🌱 I’m currently learning **Streamlit, Taipy, Flutter
+- 🌱 I’m currently learning Streamlit, Taipy, Flutter
 
-- 💬 Ask me about **HTML, CSS, PHP, JavaScript, React
+- 💬 Ask me about HTML, CSS, PHP, JavaScript, React
 
 - 📫 How to reach me **kurodajunos@gmail.com**
 

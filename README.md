@@ -1,4 +1,4 @@
-[[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://ris.io)]
+![Banner](https://raw.githubusercontent.com/username/username/main/banner.svg)
 <h1 align="center">Yo! 👋, I'm Harry M. Dajunos</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197.gif">
